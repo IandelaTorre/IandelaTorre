@@ -1,4 +1,4 @@
-# Hey there ✌🏻:
+# ✌🏻 Hey there :
 I'm Ian, an iOS developer with a full-stack background who enjoys turning ideas into smooth, well-structured apps using Swift, SwiftUI, and UIKit. I care a lot about clean architecture, readable code, and collaborating with teams to ship products that feel great to use. ❤️ Love to code.  
 This is my personal GitHub account, where I publish ongoing work and improvements from the projects I’m involved in. No copy/paste projects in here.  
 
