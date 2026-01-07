@@ -5,7 +5,7 @@ This is my personal GitHub account, where I publish ongoing work and improvement
 ## 😎 A bit about Me
 - I'm into sports, my favorite now is baseball. 🥎
 - Love the coffee. ☕️
--I love sitcoms. 😂
+- I love sitcoms. 😂
 - I like building apps that are simple and useful. 📱
 
 # 💻 Tech Stack
